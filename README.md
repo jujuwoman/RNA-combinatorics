@@ -1,2 +1,2 @@
 # RNA-combinatorics
-combinatorics of RNA secondary structures
+Visualization aid to reseach in the combinatorics of RNA secondary structures
