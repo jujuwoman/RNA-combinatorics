@@ -1,4 +1,4 @@
-# Computational aid for RNA combinatorics research
+# Visualization aid for RNA combinatorics
 
 ## Type C orbit generator.nb
 This formatted Mathematica 11.0.1.0 notebook provides a visual demonstration of the concepts proven in [“RNA, local moves on plane trees, and transpositions on tableaux”](https://doi.org/10.2140/involve.2018.11.383) (Seegerer, Tripp, Tymoczko, and Wang).
